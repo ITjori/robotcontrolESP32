@@ -1,10 +1,10 @@
-## Task 3
+# Task 3
 
 **(Robot control using ESP32)**
 
 This approach enables real-time control of the robot using a mobile application.
 
-# **Steps to Control ESP32 via MIT App Inventor**
+## **Steps to Control ESP32 via MIT App Inventor**
 
 ***1.   Connect ESP32 to WiFi (Client or AP Mode):***
  
